@@ -18,6 +18,7 @@ public class ProgramaInformatikoaTest {
 
     }
 }
+/*Test goodbye java */
     @Test 
     public void test(){
         ProgramaInformatikoa pi= new ProgramaInformatikoa();
